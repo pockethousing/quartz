@@ -5,7 +5,7 @@ enableToc: true
 
 
 ## h2 the first
-- [[testing page 1]]
+- [[test2]]
 - [[test2]]
 
 something something
