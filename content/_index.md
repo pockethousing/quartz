@@ -1,5 +1,5 @@
 ---
-title: Pocket Housing Documentation
+title: "Pocket Housing Documentation"
 enableToc: true
 ---
 
