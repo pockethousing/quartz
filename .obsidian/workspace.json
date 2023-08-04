@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -147,5 +147,15 @@
     }
   },
   "active": "f76448a903462927",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/templates/post.md",
+    "content/quartz-testing/templates/post.md",
+    "content/private/private-note.md",
+    "content/private/_index 1_copy.md",
+    "content/_index.md",
+    "content/notes/testlink.md",
+    "content/notes/testing page 1.md",
+    "content/notes/test2.md",
+    "README.md"
+  ]
 }
