@@ -16,27 +16,39 @@
             }
           },
           {
-            "id": "c0453cd4060e342c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing page 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c355d3d2ffafe13e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "71710329f97a55d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4971abda5d469646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testlink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing page 1.md",
+                "file": "testlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing page 1.md",
+                "file": "testlink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing page 1.md"
+                "file": "testlink.md"
               }
             }
           }
@@ -163,9 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0453cd4060e342c",
+  "active": "4971abda5d469646",
   "lastOpenFiles": [
     "testing page 1.md",
+    "test2.md",
+    "testlink.md",
     "templates/post.md",
     "templates"
   ]
